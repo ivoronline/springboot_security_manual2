@@ -1,4 +1,4 @@
-package com.ivoronline.springboot_security_manual2.security;
+package com.ivoronline.springboot_security_manual2.services;
 
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
